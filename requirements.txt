@@ -1,4 +1,4 @@
-pyTelegramBotAPI
+﻿pyTelegramBotAPI
 google-genai
 pydantic
 requests
@@ -7,3 +7,4 @@ uvicorn
 ccxt
 flask
 gunicorn
+pandas
