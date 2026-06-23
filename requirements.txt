@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+google-genai
+pydantic
+requests
+fastapi
+uvicorn
+ccxt
+flask
+gunicorn

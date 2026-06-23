@@ -1,0 +1,9 @@
+﻿services:
+  - type: worker
+    name: ai-hedge-fund
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot_core.py
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
